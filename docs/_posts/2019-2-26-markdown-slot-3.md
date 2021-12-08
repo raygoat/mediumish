@@ -9,7 +9,7 @@ featuredimg: https://images.unsplash.com/photo-1464052259809-c19ec2ddfc5f?ixlib=
 summary: The number of confirmed COVID-19 cases jumped.
 
 ---
-Since the outbreak of the novel coronavirus (COVID-19) in China, World Health Organization (WHO) officials have been consistent in praising China for the country’s efforts in containing the spread of the disease. But as the virus has spread across 53 countries with more than 6,000 confirmed cases and 86 deaths (outside China) as of 29 February 2019, netizens pointed their fingers at WHO Director-General Tedros Adhanom Ghebreyesus for his pro-China response at the initial stage of the outbreak.
+2 Since the outbreak of the novel coronavirus (COVID-19) in China, World Health Organization (WHO) officials have been consistent in praising China for the country’s efforts in containing the spread of the disease. But as the virus has spread across 53 countries with more than 6,000 confirmed cases and 86 deaths (outside China) as of 29 February 2019, netizens pointed their fingers at WHO Director-General Tedros Adhanom Ghebreyesus for his pro-China response at the initial stage of the outbreak.
 
 As of this writing, almost half a million people have signed an online petition demanding his resignation.
 
