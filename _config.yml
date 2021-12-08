@@ -1,2 +1,3 @@
 # theme: jekyll-theme-cayman
-remote-theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# remote-theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+theme: minimal-mistakes-jekyll
